@@ -2,7 +2,7 @@
  Welcome to the Heart Trail Animation project! This interactive and visually appealing project creates a whimsical trail of hearts that follow the user's mouse movements across the screen. Hearts are randomly generated with varying sizes and colors, adding a dynamic and delightful effect to your browsing experience.
 
 ### 🌟 Live Demo
-#### Check out the live demo: https://yenulic.github.io/heart-trail-animation-project/
+#### Check out the live demo: https://yenulic.github.io/Heart-Trail-Animation/
 
 ### 🚀 Getting Started
 
